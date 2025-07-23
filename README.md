@@ -1,1 +1,3 @@
-# Cancer-Information-Q-A-with-LLM-and-RAG
+# Cancer Information Q-A with LLM and RAG
+
+This project centers on creating a Cancer Information Q&A system powered by a Google’s Flan‑T5‑base and Retrieval‑Augmented Generation. By utilizing a curated dataset of cancer‑related questions and answers, the system delivers detailed and context‑relevant responses to user queries. Through the use of vector embeddings and an in‑memory vector database, it retrieves the most relevant documents, enabling the LLM to generate reliable and well‑grounded answers. The goal of this work is to improve access to cancer knowledge and make complex medical information easier to understand for general audiences.
